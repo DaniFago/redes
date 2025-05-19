@@ -1,0 +1,18 @@
+﻿REDES - SEMANA 11: QUESTIONÁRIO CAMADA DE REDE: ROTEAMENTO E ENDEREÇAMENTO IP
+1. Qual é a principal função da camada de rede no modelo OSI?
+________________
+
+
+2. Quais são os protocolos mais comuns utilizados na camada de rede?
+________________
+
+
+3. O que é fragmentação na camada de rede e por que ela é necessária?
+________________
+
+
+4. Como a camada de rede lida com o controle de congestionamento em redes?
+________________
+
+
+5. Qual a diferença entre endereços MAC e endereços IP, e como a camada de rede usa o endereço IP?
